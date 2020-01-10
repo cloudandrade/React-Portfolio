@@ -1,0 +1,41 @@
+.language {
+	width: 300px;
+	height: auto;
+	padding: 10px;
+	background-color: #ffffff;
+	margin: 5px;
+	margin-bottom: 15px;
+}
+
+.l-title {
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 28pt;
+	margin-bottom: 10px;
+}
+
+.l-subtitle {
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 14pt;
+	color: #0c4999;
+}
+
+.l-desc {
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 14pt;
+	color: #919191;
+	margin-left: 5px;
+}
+
+.l-container {
+	display: flex;
+}
+
+.l-i-container {
+	margin-bottom: 10px;
+}
+
+.l-icons {
+	margin-left: 2px;
+	margin-right: 5px;
+	color: #0c4999;
+}

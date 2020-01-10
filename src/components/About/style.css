@@ -1,0 +1,17 @@
+.about {
+	background-color: #ffffff;
+	width: 650px;
+	height: auto;
+	padding: 30px;
+	margin: 5px;
+}
+
+.title {
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 28pt;
+}
+
+.desc {
+	font-family: 'Inria Serif', serif;
+	font-size: 12pt;
+}

@@ -1,0 +1,12 @@
+.projects {
+	margin: 5px;
+	padding: 30px;
+	width: 730px;
+	height: auto;
+	background-color: #ffffff;
+}
+
+.title {
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 28pt;
+}

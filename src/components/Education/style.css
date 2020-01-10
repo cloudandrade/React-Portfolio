@@ -1,0 +1,37 @@
+.education {
+	width: 300px;
+	height: auto;
+	padding: 10px;
+	background-color: #ffffff;
+	margin: 5px;
+}
+
+.title {
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 28pt;
+}
+
+.education-subtitle {
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 12pt;
+	color: #0c4999;
+}
+
+.education-desc {
+	margin-left: 18px;
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 10pt;
+	color: black;
+}
+
+.year {
+	font-family: 'Inria Serif Bold', serif;
+	font-size: 10pt;
+	color: #919191;
+	margin-left: 5px;
+}
+
+.education-wrap {
+	display: flex;
+	margin-bottom: 10px;
+}

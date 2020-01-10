@@ -1,0 +1,29 @@
+.location {
+	width: 300px;
+	height: 162px;
+	padding: 20px;
+	background-color: #ffffff;
+	margin: 5px;
+}
+
+.adress {
+	font-family: 'Inria Serif', serif;
+	font-size: 12pt;
+	margin-top: 10px;
+}
+
+.mail {
+	font-family: 'Inria Serif', serif;
+	font-size: 12pt;
+	margin-top: 10px;
+}
+
+.blog {
+	font-family: 'Inria Serif', serif;
+	font-size: 12pt;
+	margin-top: 10px;
+}
+
+.icons {
+	margin: 5px;
+}
