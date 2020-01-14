@@ -5,7 +5,7 @@ export default class Language extends Component {
 	render() {
 		return (
 			<>
-				<div className="language">
+				<div className="language-style">
 					<div className="l-title">Languages</div>
 					<div className="l-container">
 						<div className="l-subtitle">Portuguese:</div>

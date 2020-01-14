@@ -1,0 +1,39 @@
+.landing {
+	display: grid;
+	grid-gap: 6px;
+	grid-template-columns: 250px 215px 215px 215px 80px auto auto 250px; /*  repeat(12, 3fr); */
+	grid-template-rows: auto 170px 80px auto auto;
+	grid-template-areas:
+		'h h h h h h h h '
+		'. a a a . l l l '
+		'. a a a . p p p '
+		'. w w w . p p p '
+		'. w w w . e e e '
+		'. w w w . . . . ';
+}
+
+.head {
+	grid-area: h;
+}
+
+.location {
+	grid-area: l;
+}
+
+.about {
+	grid-area: a;
+}
+
+.work {
+	grid-area: w;
+	margin-bottom: 30px;
+}
+
+.language {
+	grid-area: p;
+}
+
+.education {
+	grid-area: e;
+	margin-bottom: 30px;
+}
